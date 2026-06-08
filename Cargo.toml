@@ -1,0 +1,6 @@
+[package]
+name = "si-information-geodesic"
+version = "0.1.0"
+edition = "2021"
+description = "Fisher information metric on agent state space — geodesics trace optimal budget transitions"
+license = "MIT"
